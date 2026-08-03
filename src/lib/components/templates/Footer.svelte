@@ -90,15 +90,6 @@
     line-height:1.6em;
     margin-bottom:0;
   }
-  footer ul {
-    margin:0;
-    padding:0;
-    list-style-type: none;
-  }
-  footer ul li {
-    margin: 6px 0 0;
-    padding: 6px 0 0;
-  }
   footer .legal {
     color:#FFF;
     box-sizing:border-box;

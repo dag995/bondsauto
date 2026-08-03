@@ -10,6 +10,20 @@
   <div class="tidb-container">
     
     <div class="w-860">
+      <div class="img_wrap">
+        <p class="img">
+          <img 
+            src="/images/home_01.jpg"
+            alt="fiat 500 abarth" 
+            title="fiat 500 abarth" 
+            width="1200" 
+            height="800" 
+          />
+        </p>
+        <div class="caption">
+          Fiat 500 Abarth
+        </div>
+      </div>
       
       <h1>Car Diagnostic Services</h1>
       <p>Dashboard warning light on? Strange noise that comes and goes? Car running rough but you can't put your finger on why? Our diagnostic service gets to the root of the problem quickly and accurately, so you're not paying to guess.</p>
@@ -74,12 +88,5 @@
     margin-bottom:0;
     padding-bottom:10px;
     font-size:1.4em;
-  }
-  h3 {
-    color:#575757;
-    font-size:1.8em;
-    margin:0;
-    font-size:1.6em;
-    margin-bottom:10px;
   }
 </style>

@@ -49,42 +49,5 @@
       </div>
 
     </div>
-
-
   </div>
 </div>
-
-<style>
-  .columns {
-    display: flex;
-    flex-wrap: wrap;
-    gap:0;
-    width:100%;
-    box-sizing: border-box;
-  }
-  .column-25,
-  .column-33 {
-    flex-grow:0!important;
-  }
-  .column-25 div,
-  .column-33 div {
-    background: #FFF;
-    padding: 20px;
-    margin:0 5px;
-    border: solid 1px #e6e7e8;
-  }
-  .column-25 h3,
-  .column-33 h3 {
-    font-size:1.4em;
-    margin:0;
-    padding:20px 0 0;
-  }
-  .column-25 h4,
-  .column-33 h4 {
-    font-size:1.2em;
-    line-height:normal;
-    margin:0;
-    padding:10px 0 0;
-    color:#333;
-  }
-</style>

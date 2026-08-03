@@ -86,13 +86,6 @@
     flex-direction: row;
     align-items: center;
   }
-  .tagline {
-    margin: 0;
-    font-size: 18px;
-    font-weight: 200;
-    color: #6d6e71;
-    line-height: 22px;
-  }
   header .logo-wrap img {
     display: block;
     width:200px;
@@ -140,10 +133,6 @@
     header .wrapper .inner-wrapper {
       flex-wrap:wrap;
       justify-content: center;
-    }
-    header .tagline {
-      font-size:14px;
-      font-weight:400;
     }
     header .logo-wrap img {
       margin-right:10px;

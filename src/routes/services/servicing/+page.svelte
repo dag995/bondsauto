@@ -10,7 +10,18 @@
   <div class="tidb-container">
     
     <div class="w-860">
-      
+      <div class="img_wrap">
+        <p class="img">
+          <img 
+            src="/images/bonds_auto_03.jpg"
+            alt="servicing" 
+            title="servicing" 
+            width="1200" 
+            height="800" 
+          />
+        </p>
+      </div>
+
       <h1>Servicing</h1>
       <h2>Car Servicing: Keeping Your Car Running Right</h2>
       <p>Regular servicing is one of the simplest ways to keep your car safe, reliable, and running efficiently and to catch small issues before they turn into expensive repairs. Our servicing is thorough, honest, and tailored to what your car actually needs, not a one-size-fits-all checklist.</p>
@@ -34,12 +45,12 @@
           <h3>Full Service</h3>
           <p>Recommended annually or every 12,000 miles. A comprehensive check of your car from front to back, covering everything in the interim service plus:</p>
           <ul>
-            <li>Full brake system inspection
-            <li>Suspension and steering check
-            <li>Exhaust system inspection
-            <li>Air and fuel filter replacement
-            <li>Drive belts and hoses check
-            <li>Full underbody and visual inspection
+            <li>Full brake system inspection</li>
+            <li>Suspension and steering check</li>
+            <li>Exhaust system inspection</li>
+            <li>Air and fuel filter replacement</li>
+            <li>Drive belts and hoses check</li>
+            <li>Full underbody and visual inspection</li>
             <li>Air conditioning performance check</li>
           </ul>
         </div>

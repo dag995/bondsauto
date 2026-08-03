@@ -10,7 +10,19 @@
   <div class="tidb-container">
     
     <div class="w-860">
-      
+
+      <div class="img_wrap">
+        <p class="img">
+          <img 
+            src="/images/bonds_auto_01.jpg"
+            alt="mot prep" 
+            title="mot prep" 
+            width="1200" 
+            height="800" 
+          />
+        </p>
+      </div>
+
       <h1>MOT Testing, Preparation & Repairs</h1>
       <h2>Your Local MOT Centre You Can Trust</h2>
       <p>Getting your car through its MOT shouldn't be stressful. Our team offers full MOT testing alongside honest, expert advice on what your vehicle needs to pass first time, every time. Whether you're due a test this week or want to get ahead of a fault before it becomes a fail, we're here to help.</p>

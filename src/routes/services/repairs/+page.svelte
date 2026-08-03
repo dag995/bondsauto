@@ -11,6 +11,18 @@
     
     <div class="w-860">
       
+      <div class="img_wrap">
+        <p class="img">
+          <img 
+            src="/images/bonds_auto_02.jpg"
+            alt="mot prep" 
+            title="mot prep" 
+            width="1200" 
+            height="800" 
+          />
+        </p>
+      </div>
+
       <h1>Car Repairs: Small Fixes to Major Work</h1>
       <h2>Your Local Garage for Every Kind of Repair</h2>
       <p>Not every car problem is the same, and it shouldn't be treated that way. Whether it's a quick fix you want sorted before it turns into something bigger, or a major repair after a fault or breakdown, our team handles it all — with the same honest advice and quality workmanship every time.</p>
@@ -21,12 +33,12 @@
           <h3>Small & Routine Repairs</h3>
           <p>Little issues are easy to put off, but they're usually quick and affordable to sort and ignoring them often leads to bigger problems down the line. We regularly handle:</p>
           <ul>
-            <li>Bulb and light replacements
-            <li>Wiper blades and washer system fixes
-            <li>Battery testing and replacement
-            <li>Minor electrical faults
-            <li>Fluid top-ups and leak checks
-            <li>Small trim, interior and exterior fixes
+            <li>Bulb and light replacements</li>
+            <li>Wiper blades and washer system fixes</li>
+            <li>Battery testing and replacement</li>
+            <li>Minor electrical faults</li>
+            <li>Fluid top-ups and leak checks</li>
+            <li>Small trim, interior and exterior fixes</li>
             <li>Air conditioning re-gas and faults</li>
           </ul>
         </div>

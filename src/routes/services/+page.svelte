@@ -31,10 +31,4 @@
     padding-bottom:10px;
     text-align: center;
   }
-  .intro h2 {
-    color:#575757;
-    font-size:1.8em;
-    margin:0;
-    text-align: center;
-  }
 </style>

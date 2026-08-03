@@ -46,6 +46,6 @@ declare module "$app/types" {
 		};
 		Pathname(): "/" | "/about" | "/contact" | "/faq" | "/services" | "/services/diagnosis" | "/services/mot" | "/services/repairs" | "/services/servicing";
 		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
-		Asset(): "/.DS_Store" | "/bonds_auto_logo.svg" | "/bondsauto_logo_white.svg" | "/favicon.ico" | "/favicon.png" | "/images/.DS_Store" | "/images/about_01.jpg" | "/images/home_01.jpg" | "/images/home_02.jpg" | "/images/home_03.jpg" | "/robots.txt" | "/styles.css" | string & {};
+		Asset(): "/.DS_Store" | "/bonds_auto_logo.svg" | "/bondsauto_logo_white.svg" | "/favicon.ico" | "/favicon.png" | "/images/.DS_Store" | "/images/about_01.jpg" | "/images/bonds_auto_01.jpg" | "/images/bonds_auto_02.jpg" | "/images/bonds_auto_03.jpg" | "/images/home_01.jpg" | "/images/home_02.jpg" | "/images/home_03.jpg" | "/robots.txt" | "/styles.css" | string & {};
 	}
 }
