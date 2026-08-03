@@ -86,10 +86,4 @@
     padding-bottom:10px;
     font-size:1.4em;
   }
-  h3 {
-    color:#575757;
-    margin:0;
-    font-size:1.6em;
-    margin-bottom:10px;
-  }
 </style>

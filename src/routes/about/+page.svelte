@@ -8,23 +8,7 @@
 
 <div class="tidb-wrap">
   <div class="tidb-container">
-    <div class="w-860">
-      
-      <div class="img_wrap">
-        <p class="img">
-          <img 
-            src="/images/about_01.jpg"
-            alt="McLaren" 
-            title="McLaren" 
-            width="1200" 
-            height="800" 
-          />
-        </p>
-        <!-- <div class="caption">
-          Kricket Restaurant, White City, London by Run for the Hills.
-        </div> -->
-      </div>
-                
+    <div class="w-860">                
       <div class="columns">
         <div class="column column-50">
           <div style="height:100px"></div>

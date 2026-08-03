@@ -8,12 +8,25 @@
 
 <div class="tidb-wrap">
   <div class="tidb-container">
-    <div class="w-860" style="padding:80px 20px 0 20px;margin-bottom:20px;border-bottom:solid 1px #CCC;">
+    <div class="w-860" style="padding:0 20px 0 20px;margin-bottom:20px;border-bottom:solid 1px #CCC;">
+
+      <div class="img_wrap">
+        <p class="img">
+          <img 
+            src="/images/about_01.jpg"
+            alt="McLaren" 
+            title="McLaren" 
+            width="1200" 
+            height="800" 
+          />
+        </p>
+      </div>
+
       <h1>Contact Bonds Automotive</h1>
     </div>
 
     <div class="w-860" style="padding-right:20px;padding-left:20px;">
-      
+
       <div class="columns">
         <div class="column column-33">
           <h3 style="font-size:1.6em;">Contact Details</h3>
